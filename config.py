@@ -1,3 +1,3 @@
 #Trying to create telegram bot with schedule
-token = '897122085:AAGCpuOn_cnbZSmwyLp-G-sD0urpWO3dcyY'
+token = ''  #token from BotFather
 database_name = 'schedule.db'
